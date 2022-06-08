@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T09:57:51 IST" name="Suite" finished-at="2022-06-08T09:58:52 IST" duration-ms="60925">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T09:57:51 IST" name="Test" finished-at="2022-06-08T09:58:52 IST" duration-ms="60925">
+      <class name="test.TermsAndConditionsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TermsAndConditionsTest@22ef9844]" started-at="2022-06-08T09:58:24 IST" name="setup" finished-at="2022-06-08T09:58:25 IST" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:test.TermsAndConditionsTest@22ef9844]" started-at="2022-06-08T09:58:25 IST" name="test" finished-at="2022-06-08T09:58:29 IST" duration-ms="4084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.TermsAndConditionsTest@22ef9844]" started-at="2022-06-08T09:58:29 IST" name="tear" finished-at="2022-06-08T09:58:30 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.TermsAndConditionsTest -->
+      <class name="test.PrivacyPolicyTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.PrivacyPolicyTest@6283d8b8]" started-at="2022-06-08T09:58:30 IST" name="setup" finished-at="2022-06-08T09:58:31 IST" duration-ms="1405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:test.PrivacyPolicyTest@6283d8b8]" started-at="2022-06-08T09:58:31 IST" name="test1" finished-at="2022-06-08T09:58:38 IST" duration-ms="6970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.PrivacyPolicyTest@6283d8b8]" started-at="2022-06-08T09:58:38 IST" name="tear" finished-at="2022-06-08T09:58:38 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.PrivacyPolicyTest -->
+      <class name="test.DeliveryTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.DeliveryTest@3f6b0be5]" started-at="2022-06-08T09:58:45 IST" name="setup" finished-at="2022-06-08T09:58:47 IST" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:test.DeliveryTest@3f6b0be5]" started-at="2022-06-08T09:58:47 IST" name="test" finished-at="2022-06-08T09:58:51 IST" duration-ms="4596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.DeliveryTest@3f6b0be5]" started-at="2022-06-08T09:58:51 IST" name="tear" finished-at="2022-06-08T09:58:52 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.DeliveryTest -->
+      <class name="test.aboutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.aboutTest@6da21078]" started-at="2022-06-08T09:57:51 IST" name="setup" finished-at="2022-06-08T09:57:53 IST" duration-ms="2798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="met()[pri:0, instance:test.aboutTest@6da21078]" started-at="2022-06-08T09:57:53 IST" name="met" finished-at="2022-06-08T09:58:00 IST" duration-ms="6615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- met -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.aboutTest@6da21078]" started-at="2022-06-08T09:58:00 IST" name="tear" finished-at="2022-06-08T09:58:02 IST" duration-ms="2440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.aboutTest -->
+      <class name="test.Logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Logintest@7205765b]" started-at="2022-06-08T09:58:03 IST" name="setup" finished-at="2022-06-08T09:58:04 IST" duration-ms="1416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:test.Logintest@7205765b]" started-at="2022-06-08T09:58:04 IST" name="test1" finished-at="2022-06-08T09:58:17 IST" duration-ms="13234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.Logintest@7205765b]" started-at="2022-06-08T09:58:17 IST" name="tear" finished-at="2022-06-08T09:58:17 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.Logintest -->
+      <class name="test.LivingNavTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.LivingNavTest@3b6ddd1d]" started-at="2022-06-08T09:58:38 IST" name="setup" finished-at="2022-06-08T09:58:40 IST" duration-ms="1462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test()[pri:0, instance:test.LivingNavTest@3b6ddd1d]" started-at="2022-06-08T09:58:40 IST" name="Test" finished-at="2022-06-08T09:58:45 IST" duration-ms="5323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.LivingNavTest@3b6ddd1d]" started-at="2022-06-08T09:58:45 IST" name="tear" finished-at="2022-06-08T09:58:45 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.LivingNavTest -->
+      <class name="test.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.SearchTest@47987356]" started-at="2022-06-08T09:58:17 IST" name="setup" finished-at="2022-06-08T09:58:19 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:test.SearchTest@47987356]" started-at="2022-06-08T09:58:19 IST" name="test2" finished-at="2022-06-08T09:58:24 IST" duration-ms="4719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:test.SearchTest@47987356]" started-at="2022-06-08T09:58:24 IST" name="tear" finished-at="2022-06-08T09:58:24 IST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- test.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
